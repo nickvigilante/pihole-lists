@@ -1,8 +1,8 @@
+https://big.oisd.nl/
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Regular%20Hosts.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
-https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Regular%20Hosts.txt
-https://big.oisd.nl/
-https://v.firebog.net/hosts/Admiral.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock-aggressive.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
+https://v.firebog.net/hosts/Admiral.txt
