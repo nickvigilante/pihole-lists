@@ -1,4 +1,4 @@
-# pihole-blocklist
+# pihole-lists
 
 My Pi-hole blocklist, kept as plain text so it can be reviewed, diffed, and reapplied to a fresh install.
 It holds the domains and patterns I block on top of the subscribed lists, plus the subscribed lists themselves.
